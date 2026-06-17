@@ -6,8 +6,7 @@ on:
       - qa
       - main
     tags:
-      - 'v*'
- 
+      - 'v*'     
 jobs:
  
   # QA PIPELINE (VERCEL)
